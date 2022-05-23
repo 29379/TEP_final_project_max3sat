@@ -1,0 +1,2 @@
+# TEP_final_project_max3sat
+Genetic algorithm implementation
