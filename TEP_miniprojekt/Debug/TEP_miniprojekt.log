@@ -1,0 +1,7 @@
+﻿  COptimizer.cpp
+C:\Users\Lenovo\source\repos\TEP_miniprojekt\TEP_miniprojekt\COptimizer.cpp(16,19): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  TEP_miniprojekt.vcxproj -> C:\Users\Lenovo\source\repos\TEP_miniprojekt\Debug\TEP_miniprojekt.exe
